@@ -12,6 +12,6 @@ F4, Impostor On/Impostor off
 check the Crewmate map, he will turn the imposter map into the crewmate map
 Kill Timer goes down faster
 can move in vent
-
+See Impostor Added 25/05/2021
 
 Updates Soon
