@@ -14,4 +14,7 @@ Kill Timer goes down faster
 can move in vent
 See Impostor Added 25/05/2021
 
+Credits for Api https://github.com/NuclearPowered/Reactor
+
 Updates Soon
+Mod discontinued so far
